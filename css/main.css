@@ -1,0 +1,199 @@
+body {
+    background-image: url("/assets/wallpaper.png")
+}
+
+.maintext {
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 30px;
+    color: white;
+}
+.mfc {
+    text-align: center;
+    font-family: 'Arial';
+    font-size: 25px;
+    color: white;
+    align-items: ce;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    position: absolute;
+    top: 550px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+.mainsubtext {
+    font-family: 'JetBrains Mono';
+    font-size: 20px;
+    color: white;
+    top: 50px;
+    left: 225px;
+    text-align: center;
+}
+
+.ytchb {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 64px;
+    align-items: ce;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 0;
+    position: absolute;
+    top: 250px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    border-radius: 50px;
+}
+  
+.ytchb:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background: linear-gradient(90deg, #405de6, #833ab4);
+}
+
+.ytchsb {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 64px;
+    align-items: ce;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    margin: 0;
+    position: absolute;
+    top: 350px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    border-radius: 50px;
+}
+  
+.ytchsb:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background: linear-gradient(90deg, #405de6, #833ab4);
+}
+ 
+.vkgroupb {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 64px;
+    align-items: ce;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 0;
+    position: absolute;
+    top: 450px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    border-radius: 50px;
+}
+  
+.vkgroupb:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background: linear-gradient(90deg, #405de6, #833ab4);
+}
+
+
+.wertixb {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 64px;
+    align-items: ce;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 0;
+    position: absolute;
+    top: 650px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    border-radius: 50px;
+}
+  
+.wertixb:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background: linear-gradient(90deg, #405de6, #833ab4);
+}
+  
+.lapob {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 64px;
+    align-items: ce;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 0;
+    position: absolute;
+    top: 750px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    border-radius: 50px;
+  }
+  
+.lapob:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background: linear-gradient(90deg, #405de6, #833ab4);
+}
+
+.arsikleonb {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 64px;
+    align-items: ce;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 0;
+    position: absolute;
+    top: 850px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    border-radius: 50px;
+}
+  
+.arsikleonb:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background: linear-gradient(90deg, #405de6, #833ab4);
+}
+
+.footertext{
+    font-family: 'Arial';
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0;
+    position: absolute;
+    top: 915px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: #ffffff;
+    cursor: pointer;
+}
+      
+  
